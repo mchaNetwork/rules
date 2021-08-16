@@ -2,3 +2,4 @@ payload:
   - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-KEYWORD,epicgames
+  - DOMAIN-SUFFIX,steamcontent.com
