@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-KEYWORD,epicgames
   - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN,dotnetcli.blob.core.windows.net
