@@ -1,9 +1,0 @@
-# Converted from FQrabbit/SSTap-Rule
-# For Ragnarok Online2-us (仙境传说2-us)
-# Created by normanbb
-
-payload:
-  - '128.241.93.0/24'
-  - '128.241.94.0/24'
-  - '162.14.10.107/32'
-  - '208.64.201.0/24'
