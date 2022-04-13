@@ -1,0 +1,14 @@
+#@behavior: domain
+payload:
+  - '+.fanatical.com'
+  - '+.humblebundle.com'
+  - '+.playartifact.com'
+  - '+.s.team'
+  - '+.steam-chat.com'
+  - '+.steamcommunity.com'
+  - '+.steampowered.com'
+  - '+.steamgames.com'
+  - '+.steamstatic.com'
+  - '+.steamusercontent.com'
+  - '+.underlords.com'
+  - '+.valvesoftware.com'
