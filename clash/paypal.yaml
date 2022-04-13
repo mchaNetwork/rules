@@ -1,0 +1,6 @@
+#@behavior: domain
+payload:
+  - '+.paypal.me'
+  - '+.paypal.com'
+  - '+.paypal-mktg.com'
+  - '+.paypalobjects.com'
