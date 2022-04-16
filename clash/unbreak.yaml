@@ -1,3 +1,4 @@
 #@behavior: domain
 payload:
   - 'cdn.jsdelivr.net'
+  - 'gist.github.com'
