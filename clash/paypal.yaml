@@ -4,3 +4,5 @@ payload:
   - '+.paypal.com'
   - '+.paypal-mktg.com'
   - '+.paypalobjects.com'
+  - 'paypal-dynamic.map.fastly.net'
+  - '+.paypal-dynamic-2.map.fastly.net'
