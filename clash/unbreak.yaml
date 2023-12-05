@@ -2,3 +2,4 @@
 payload:
   - 'cdn.jsdelivr.net'
   - 'gist.github.com'
+  - '+.newrelic.com'
