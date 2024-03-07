@@ -1,6 +1,5 @@
 #@behavior: domain
 payload:
-  - '+.jixia.icu'
   - '+.steamcontent.com'
   - '+.dedyn.io'
   - '+.neverssl.com'
